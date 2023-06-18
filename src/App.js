@@ -51,6 +51,8 @@ function App() {
     <div className="App">
       <header className="App-header">
 
+        <h1>Simple Calculator!</h1>
+
         <form onSubmit={handleSubmit}>
 
           <input
